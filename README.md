@@ -86,7 +86,7 @@ I love to create new projects and see how new technology works. As well as being
   <a href = "https://github.com/AliZ786/github-readme-stats">
 <img src ="https://github-readme-stats.vercel.app/api?username=AliZ786&count_private=true&show_icons=true&theme=codeSTACKr" /> <br/> <br/> </a>
   <a href = "https://github.com/AliZ786/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZ786&theme=codeSTACKr&count_private=true&layout=compact" height="197" width="300") </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZ786&theme=codeSTACKr&count_private=true&layout=compact" height="197"/> </a>
 
 </p>
 
