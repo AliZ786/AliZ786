@@ -31,6 +31,35 @@ I love to create new projects and see how new technology works. As well as being
 
 </p>
 
+
+
+
+**Languages and Tools**
+<p align ="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="C++" height="50" style="vertical-align:top; margin:6px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" alt="TS" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="CSS" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="HTML" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" alt="IJ" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/eclipse.svg" alt="Eclipse" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="PC" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/clion.png" alt="C#" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="C#" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="C#" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg" alt="C#" height="50" style="vertical-align:top; margin:2px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" alt="C#" height="50" style="vertical-align:top; margin:2px">
+
+
+
+
+  
+  </p>
+
+
   
 ## My Projects
 
@@ -56,7 +85,7 @@ I love to create new projects and see how new technology works. As well as being
 
 ## My Github Stats
 [![Aii's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZ786&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/AliZ786/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZ786&theme=codeSTACKr&layout=compact&count_private=true)](https://github.com/AliZ786/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZ786&theme=codeSTACKr&count_private=true)](https://github.com/AliZ786/github-readme-stats)
 
 
 
