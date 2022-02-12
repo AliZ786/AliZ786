@@ -7,7 +7,7 @@ I love to create new projects and see how new technology works. As well as being
 
 
   
-- 🔭 I’m currently working on: Class projects, such as SOEN 357 and SOEN 390.
+- 🔭 I’m currently working on: Class projects, such as SOEN 357 and SOEN 390, as well as different programming assignments for classes such as SOEN 363 and COMP 445.
 - 🌱 I’m currently learning: A lot of React, a little bit of NoSQL, and countless hours of drawing prototpyes on Figma and Invision.
 - 💬 Ask me about : My projects, I really love talking about and displaying them.
 
