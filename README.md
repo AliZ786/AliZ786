@@ -24,7 +24,7 @@ I love to create new projects and see how new technology works. As well as being
   <p>
   
   <a href = "https://github.com/AliZ786/SOEN363">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN363&show_icons=true&theme=codeSTACKr" /> </a>
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN363&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
   
   <a href = "https://github.com/AliZ786/COMP445">
   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP445&show_icons=true&theme=codeSTACKr" /> </a>
@@ -65,27 +65,28 @@ I love to create new projects and see how new technology works. As well as being
 
 <p>
   <a href = "https://github.com/AliZ786/Trouble-in-Viridian-Forest">
-   <img align = "center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=Trouble-in-Viridian-Forest&show_icons=true&theme=codeSTACKr"/> </a>
+   <img align = "center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=Trouble-in-Viridian-Forest&show_icons=true&theme=codeSTACKr"/> &nbsp&nbsp </a>
  
   <a href = "https://github.com/AliZ786/SOEN341">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN341&show_icons=true&theme=codeSTACKr" /> </a>
-   
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN341&show_icons=true&theme=codeSTACKr" /> <br/> </a>
+   <br/>
   <a href = "https://github.com/AliZ786/DjangoRESTAPI">
-  <img align = "center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=DjangoRESTAPI&show_icons=true&theme=codeSTACKr" /> </a>
+  <img align = "center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=DjangoRESTAPI&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
   
    <a href = "https://github.com/AliZ786/Glucometer">
-   <img align ="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=Glucometer&show_icons=true&theme=codeSTACKr" /> </a>
+   <img align ="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=Glucometer&show_icons=true&theme=codeSTACKr" /> <br/> </a>
   
-   <a href = "https://github.com/AliZ786/SOEN-287">
-   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN-287&show_icons=true&theme=codeSTACKr" /> </a>
 
 </p>
 
 
 
 ## My Github Stats
-[![Aii's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZ786&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/AliZ786/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZ786&theme=codeSTACKr&count_private=true)](https://github.com/AliZ786/github-readme-stats)
+<p>
+  <a href = "https://github.com/AliZ786/github-readme-stats">
+<img src ="https://github-readme-stats.vercel.app/api?username=AliZ786&count_private=true&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
+  <a href = "https://github.com/AliZ786/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZ786&theme=codeSTACKr&count_private=true&layout=compact" height="197") </a>
 
-
+</p>
 
