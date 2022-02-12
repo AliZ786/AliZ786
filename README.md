@@ -23,11 +23,11 @@ I love to create new projects and see how new technology works. As well as being
   **Repositories for current classes**
   <p>
   
-  <a href = "https://github.com/AliZ786/SOEN363">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN363&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
+  <a href = "https://github.com/AliZ786/SOEN-363">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN-363&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
   
-  <a href = "https://github.com/AliZ786/COMP445">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP445&show_icons=true&theme=codeSTACKr" /> </a>
+  <a href = "https://github.com/AliZ786/COMP-445">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-445&show_icons=true&theme=codeSTACKr" /> </a>
 
 </p>
 
