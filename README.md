@@ -23,6 +23,9 @@ I love to create new projects and see how new technology works. As well as being
   **Repositories for current classes**
   <p>
   
+  <a href = "https://github.com/SamanthaGuillemette/SOEN390">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=SamanthaGuillemette&repo=SOEN-390&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
+  
   <a href = "https://github.com/AliZ786/SOEN-363">
   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN-363&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
   
