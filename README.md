@@ -18,7 +18,10 @@ I love to create new projects and see how new technology works. As well as being
   </p>
   
  **Professional Experience**
-  <ul><li>Software Developer Intern (C#, Angular, MySQL) @Consoltec Inc. - January 2021 to May 2021 </li> </ul>
+  <ul>
+    <li> Simfinity and TRAX Developer Intern (C++, C#, Unity) @CAE - May 2022 to August 2022 </li>
+    <li>Software Developer Intern (C#, Angular, MySQL) @Consoltec Inc. - January 2021 to May 2021 </li>
+</ul>
   
   **Repositories for current classes**
   <p>
