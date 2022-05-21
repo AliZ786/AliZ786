@@ -2,12 +2,12 @@
 <h2 align ="center">My name is Mohammad Ali Zahir, but you may also call me Ali 😀</h2>
 
 ## About me 
-I am a 3rd year Software Engineering student at Concordia University in Montreal. I am very passionate about Machine Learning, Game Development, as well as Web Development.
-I love to create new projects and see how new technology works. As well as being a University student, I have also had some industry experience with an internship with a company called Consoltec.
+I am a 4th year Software Engineering student at Concordia University in Montreal. I am very passionate about Machine Learning, Game Development, as well as Web Development.
+I love to create new projects and see how new technology works. As well as being a University student, I have also had some industry experience with an internship with a company called Consoltec. I am currently working as a validation tester at CAE.
 
 
   
-- 🔭 I’m currently working on: Class projects, such as SOEN 357 and SOEN 390, as well as different programming assignments for classes such as SOEN 363 and COMP 445.
+- 🔭 I’m currently working on: Interning at CAE, as well as doing my COMP 472 assignments
 - 🌱 I’m currently learning: A lot of React, a little bit of NoSQL, and countless hours of drawing prototpyes on Figma and Invision.
 - 💬 Ask me about : My projects, I really love talking about and displaying them.
 
