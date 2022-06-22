@@ -26,15 +26,8 @@ I love to create new projects and see how new technology works. As well as being
   **Repositories for current classes**
   <p>
   
-  <a href = "https://github.com/SamanthaGuillemette/SOEN390">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=SamanthaGuillemette&repo=SOEN390&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
-  
-  <a href = "https://github.com/AliZ786/SOEN-363">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN-363&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
-  
-  <a href = "https://github.com/AliZ786/COMP-445">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-445&show_icons=true&theme=codeSTACKr" /> </a>
-
+  <a href = "https://github.com/AliZ786/COMP472-Assignments">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP472-Assignments&show_icons=true&theme=codeSTACKr" /> </a>
 </p>
 
 
@@ -70,6 +63,10 @@ I love to create new projects and see how new technology works. As well as being
 ## My Projects
 
 <p>
+  
+   <a href = "https://github.com/SamanthaGuillemette/SOEN390">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=SamanthaGuillemette&repo=SOEN390&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp &nbsp&nbsp </a>
+  
   <a href = "https://github.com/AliZ786/Trouble-in-Viridian-Forest">
    <img align = "center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=Trouble-in-Viridian-Forest&show_icons=true&theme=codeSTACKr"/> &nbsp&nbsp </a>
  
