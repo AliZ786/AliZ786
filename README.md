@@ -26,8 +26,8 @@ I love to create new projects and see how new technology works. As well as being
   **Repositories for current classes**
   <p>
   
-  <a href = "https://github.com/AliZ786/COMP472-Assignments">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP472-Assignments&show_icons=true&theme=codeSTACKr" /> </a>
+  <a href = "https://github.com/AliZ786/COMP-445">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-445&show_icons=true&theme=codeSTACKr" /> </a>
 </p>
 
 
@@ -79,6 +79,8 @@ I love to create new projects and see how new technology works. As well as being
    <a href = "https://github.com/AliZ786/Glucometer">
    <img align ="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=Glucometer&show_icons=true&theme=codeSTACKr" /> <br/> </a>
   
+  <a href = "https://github.com/AliZ786/COMP472-Assignments">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP472-Assignments&show_icons=true&theme=codeSTACKr" /> </a>
 
 </p>
 
