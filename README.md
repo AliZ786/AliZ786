@@ -28,6 +28,9 @@ I love to create new projects and see how new technology works. As well as being
   
   <a href = "https://github.com/AliZ786/COMP-445">
   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-445&show_icons=true&theme=codeSTACKr" /> </a>
+  
+   <a href = "https://github.com/AliZ786/SOEN-331">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN-331&show_icons=true&theme=codeSTACKr&count_private=true" /> </a>
 </p>
 
 
