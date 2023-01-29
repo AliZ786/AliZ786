@@ -3,7 +3,7 @@
 
 ## About me 
 I am a 4th year Software Engineering student at Concordia University in Montreal. I am very passionate about Machine Learning, Game Development, as well as Web Development.
-I love to create new projects and see how new technology works. As well as being a University student, I have also had some industry experience with an internship with a company called Consoltec. I am currently working as a validation tester at CAE.
+I love to create new projects and see how new technology works. As well as being a University student, I have also had some industry experience with an internship with a company called Consoltec, and also worked as a validation tester at CAE.
 
 
   
@@ -29,8 +29,6 @@ I love to create new projects and see how new technology works. As well as being
   <a href = "https://github.com/AliZ786/COMP-333">
   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-333&show_icons=true&theme=codeSTACKr" /> </a>
   
-   <a href = "https://github.com/AliZ786/SOEN-331">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN-331&show_icons=true&theme=codeSTACKr&count_private=true" /> </a>
 </p>
 
 
