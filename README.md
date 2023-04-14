@@ -31,8 +31,15 @@ I love to create new projects and see how new technology works. As well as being
   
   <a href = "https://github.com/AliZ786/COMP-478">
    <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-478&show_icons=true&theme=codeSTACKr" /> </a>
-
   
+  https://github.com/SamanthaGuillemette/SOEN490
+  
+  <a href = "https://github.com/SamanthaGuillemette/SOEN490">
+   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=SamanthaGuillemette&repo=SOEN490&show_icons=true&theme=codeSTACKr"" /> </a>
+
+  <a href = "https://github.com/SamanthaGuillemette/SOEN471-PROJECT">
+   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=SamanthaGuillemette&repo=SOEN471-PROJECT&show_icons=true&theme=codeSTACKr"" /> </a>
+
   
 </p>
 
