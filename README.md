@@ -2,7 +2,7 @@
 <h2 align ="center">My name is Mohammad Ali Zahir, but you may also call me Ali 😀</h2>
 
 ## About me 
-I am a 4th year Software Engineering student at Concordia University in Montreal. I am very passionate about Machine Learning, Game Development, as well as Web Development.
+I am a recent graduate in Software Engineering student from Concordia University in Montreal. I am very passionate about Machine Learning, Game Development, as well as Web Development.
 I love to create new projects and see how new technology works. As well as being a University student, I have also had some industry experience with an internship with a company called Consoltec, and also worked as a validation tester at CAE.
 
 
@@ -23,26 +23,6 @@ I love to create new projects and see how new technology works. As well as being
     <li>Software Developer Intern (C#, Angular, MySQL) @Consoltec Inc. - January 2021 to May 2021 </li>
 </ul>
   
-  **Repositories for current classes**
-  <p>
-  
-  <a href = "https://github.com/AliZ786/COMP-333">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-333&show_icons=true&theme=codeSTACKr" /> </a>
-  
-  <a href = "https://github.com/AliZ786/COMP-478">
-   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-478&show_icons=true&theme=codeSTACKr" /> </a>
-  
-  https://github.com/SamanthaGuillemette/SOEN490
-  
-  <a href = "https://github.com/SamanthaGuillemette/SOEN490">
-   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=SamanthaGuillemette&repo=SOEN490&show_icons=true&theme=codeSTACKr"" /> </a>
-
-  <a href = "https://github.com/SamanthaGuillemette/SOEN471-PROJECT">
-   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=SamanthaGuillemette&repo=SOEN471-PROJECT&show_icons=true&theme=codeSTACKr"" /> </a>
-
-  
-</p>
-
 
 
 
@@ -77,20 +57,20 @@ I love to create new projects and see how new technology works. As well as being
 
 <p>
   
-   <a href = "https://github.com/SamanthaGuillemette/SOEN390">
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=SamanthaGuillemette&repo=SOEN390&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp &nbsp&nbsp </a>
+   <a href = "https://github.com/AliZ786/FactCheck">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=FactCheck&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp &nbsp&nbsp </a>
   
   <a href = "https://github.com/AliZ786/Trouble-in-Viridian-Forest">
    <img align = "center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=Trouble-in-Viridian-Forest&show_icons=true&theme=codeSTACKr"/> &nbsp&nbsp </a>
  
-  <a href = "https://github.com/AliZ786/SOEN341">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN341&show_icons=true&theme=codeSTACKr" /> <br/> </a>
+  <a href = "https://github.com/AliZ786/SOE490">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN490&show_icons=true&theme=codeSTACKr" /> <br/> </a>
    <br/>
-  <a href = "https://github.com/AliZ786/DjangoRESTAPI">
-  <img align = "center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=DjangoRESTAPI&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
+  <a href = "https://github.com/AliZ786/SOEN471-PROJECT">
+  <img align = "center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=SOEN471-PROJECT&show_icons=true&theme=codeSTACKr" /> &nbsp&nbsp </a>
   
-   <a href = "https://github.com/AliZ786/Glucometer">
-   <img align ="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=Glucometer&show_icons=true&theme=codeSTACKr" /> <br/> </a>
+   <a href = "https://github.com/AliZ786/COMP-478">
+   <img align ="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP-478r&show_icons=true&theme=codeSTACKr" /> <br/> </a>
   
   <a href = "https://github.com/AliZ786/COMP472-Assignments">
   <img align ="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=AliZ786&repo=COMP472-Assignments&show_icons=true&theme=codeSTACKr" /> </a>
