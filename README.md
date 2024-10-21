@@ -19,8 +19,9 @@ I love to create new projects and see how new technology works. As well as being
   
  **Professional Experience**
   <ul>
-    <li> Testing, Integration and Validation Release Intern (Python, Angular 13) @CAE - May 2022 to August 2022 </li>
-    <li>Software Developer Intern (C#, Angular, MySQL, React, HTML/CSS) @Consoltec Inc. - January 2021 to May 2022 </li>
+    <li> Data Systems & Support Analyst (Python, SQL, ProvenJobs) @Canam Systems - September 2024 to Present </li> 
+    <li> Testing, Integration & Validation Release Intern (Python, Angular 13) @CAE - May 2022 to August 2022 </li>
+    <li>Software Developer Intern (C#, Angular, MySQL, React, HTML/CSS) @Consoltec Inc. - January 2021 to May 2021 </li>
 </ul>
   
 
