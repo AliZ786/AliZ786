@@ -13,13 +13,13 @@ I love to create new projects and see how new technology works. As well as being
 
 **📫 How to reach me**:  <p><a href="https://www.linkedin.com/in/mohammad-ali-zahir-1373a3105/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.alizahir786@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.zahirm7866@gmail.com)
 
   </p>
   
  **Professional Experience**
   <ul>
-    <li> Data Systems & Support Analyst (Python, SQL, ProvenJobs) @Canam Systems - September 2024 to Present </li> 
+    <li> Data Systems & Support Analyst (Python, SQL, ProvenJobs) @Canam Systems - September 2024 to Jan 2025 </li> 
     <li> Testing, Integration & Validation Release Intern (Python, Angular 13) @CAE - May 2022 to August 2022 </li>
     <li>Software Developer Intern (C#, Angular, MySQL, React, HTML/CSS) @Consoltec Inc. - January 2021 to May 2021 </li>
 </ul>
